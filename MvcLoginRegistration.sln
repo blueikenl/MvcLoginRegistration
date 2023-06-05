@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcLoginRegistration", "MvcLoginRegistration\MvcLoginRegistration.csproj", "{2497457D-7C2F-48CB-A619-515E95C0601A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2497457D-7C2F-48CB-A619-515E95C0601A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2497457D-7C2F-48CB-A619-515E95C0601A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2497457D-7C2F-48CB-A619-515E95C0601A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2497457D-7C2F-48CB-A619-515E95C0601A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99706E33-3F83-4116-AD1F-8F5498DB486D}
+	EndGlobalSection
+EndGlobal
